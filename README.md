@@ -3,7 +3,7 @@
 The **AML Alert System** detects potential money laundering in financial transactions using a machine learning model, a FastAPI backend, and a Streamlit frontend. It’s perfect for financial institutions, developers, and data scientists to monitor and flag suspicious activity.
 
 ![System Overview](images/system-overview.png)
-*Figure 1: AML Alert System architecture, from transaction input to alert generation.*
+*Figure 1: From transaction input to alert generation.*
 
 ## Features
 - **Transaction Submission**: Input details via Streamlit.
